@@ -1,0 +1,33 @@
+[submodule "arduino-esp32"]
+	path = arduino-esp32
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "esp-adf"]
+	path = esp-adf
+	url = https://github.com/espressif/esp-adf.git
+[submodule "esp-ble-mesh-lib"]
+	path = esp-ble-mesh-lib
+	url = https://github.com/espressif/esp-ble-mesh-lib.git
+[submodule "esp-bsp"]
+	path = esp-bsp
+	url = https://github.com/espressif/esp-bsp.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "esp-iot-bridge"]
+	path = esp-iot-bridge
+	url = https://github.com/espressif/esp-iot-bridge.git
+[submodule "esp-iot-solution"]
+	path = esp-iot-solution
+	url = https://github.com/espressif/esp-iot-solution.git
+[submodule "esp-matter"]
+	path = esp-matter
+	url = https://github.com/espressif/esp-matter.git
+[submodule "esp-mdf"]
+	path = esp-mdf
+	url = https://github.com/espressif/esp-mdf.git
+[submodule "esp-mesh-lite"]
+	path = esp-mesh-lite
+	url = https://github.com/espressif/esp-mesh-lite.git
+[submodule "esp-usb-bridge"]
+	path = esp-usb-bridge
+	url = https://github.com/espressif/esp-usb-bridge.git

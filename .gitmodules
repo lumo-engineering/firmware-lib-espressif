@@ -4,18 +4,57 @@
 [submodule "esp-adf"]
 	path = esp-adf
 	url = https://github.com/espressif/esp-adf.git
+[submodule "esp-adf-libs"]
+	path = esp-adf-libs
+	url = https://github.com/espressif/esp-adf-libs.git
+[submodule "esp-amp"]
+	path = esp-amp
+	url = https://github.com/espressif/esp-amp.git
+[submodule "esp-apple-homekit-adk"]
+	path = esp-apple-homekit-adk
+	url = https://github.com/espressif/esp-apple-homekit-adk.git
+[submodule "esp-at"]
+	path = esp-at
+	url = https://github.com/espressif/esp-at.git
+[submodule "esp-aws-iot"]
+	path = esp-aws-iot
+	url = https://github.com/espressif/esp-aws-iot.git
 [submodule "esp-ble-mesh-lib"]
 	path = esp-ble-mesh-lib
 	url = https://github.com/espressif/esp-ble-mesh-lib.git
+[submodule "esp-box"]
+	path = esp-box
+	url = https://github.com/espressif/esp-box.git
+[submodule "esp-brookesia"]
+	path = esp-brookesia
+	url = https://github.com/espressif/esp-brookesia.git
 [submodule "esp-bsp"]
 	path = esp-bsp
 	url = https://github.com/espressif/esp-bsp.git
+[submodule "esp-csi"]
+	path = esp-csi
+	url = https://github.com/espressif/esp-csi.git
 [submodule "esp-dev-kits"]
 	path = esp-dev-kits
 	url = https://github.com/espressif/esp-dev-kits.git
 [submodule "esp-dl"]
 	path = esp-dl
 	url = https://github.com/espressif/esp-dl.git
+[submodule "esp-drone"]
+	path = esp-drone
+	url = https://github.com/espressif/esp-drone.git
+[submodule "esp-dsp"]
+	path = esp-dsp
+	url = https://github.com/espressif/esp-dsp.git
+[submodule "esp-gmf"]
+	path = esp-gmf
+	url = https://github.com/espressif/esp-gmf.git
+[submodule "esp-homekit-sdk"]
+	path = esp-homekit-sdk
+	url = https://github.com/espressif/esp-homekit-sdk.git
+[submodule "esp-hosted"]
+	path = esp-hosted
+	url = https://github.com/espressif/esp-hosted.git
 [submodule "esp-idf"]
 	path = esp-idf
 	url = https://github.com/espressif/esp-idf.git
@@ -28,6 +67,9 @@
 [submodule "esp-iot-solution"]
 	path = esp-iot-solution
 	url = https://github.com/espressif/esp-iot-solution.git
+[submodule "esp-lwip"]
+	path = esp-lwip
+	url = https://github.com/espressif/esp-lwip.git
 [submodule "esp-matter"]
 	path = esp-matter
 	url = https://github.com/espressif/esp-matter.git
@@ -40,12 +82,51 @@
 [submodule "esp-modbus"]
 	path = esp-modbus
 	url = https://github.com/espressif/esp-modbus.git
+[submodule "esp-nimble"]
+	path = esp-nimble
+	url = https://github.com/espressif/esp-nimble.git
+[submodule "esp-nn"]
+	path = esp-nn
+	url = https://github.com/espressif/esp-nn.git
+[submodule "esp-protocols"]
+	path = esp-protocols
+	url = https://github.com/espressif/esp-protocols.git
 [submodule "esp-rainmaker"]
 	path = esp-rainmaker
 	url = https://github.com/espressif/esp-rainmaker.git
+[submodule "esp-sr"]
+	path = esp-sr
+	url = https://github.com/espressif/esp-sr.git
+[submodule "esp-tflite-micro"]
+	path = esp-tflite-micro
+	url = https://github.com/espressif/esp-tflite-micro.git
+[submodule "esp-thread-br"]
+	path = esp-thread-br
+	url = https://github.com/espressif/esp-thread-br.git
+[submodule "esp-usb"]
+	path = esp-usb
+	url = https://github.com/espressif/esp-usb.git
 [submodule "esp-usb-bridge"]
 	path = esp-usb-bridge
 	url = https://github.com/espressif/esp-usb-bridge.git
+[submodule "esp-who"]
+	path = esp-who
+	url = https://github.com/espressif/esp-who.git
+[submodule "esp-wifi-remote"]
+	path = esp-wifi-remote
+	url = https://github.com/espressif/esp-wifi-remote.git
+[submodule "esp-zboss-lib"]
+	path = esp-zboss-lib
+	url = https://github.com/espressif/esp-zboss-lib.git
+[submodule "esp-zigbee-sdk"]
+	path = esp-zigbee-sdk
+	url = https://github.com/espressif/esp-zigbee-sdk.git
 [submodule "esp32-camera"]
 	path = esp32-camera
 	url = https://github.com/espressif/esp32-camera.git
+[submodule "idf-extra-components"]
+	path = idf-extra-components
+	url = https://github.com/espressif/idf-extra-components.git
+[submodule "openocd-esp32"]
+	path = openocd-esp32
+	url = https://github.com/espressif/openocd-esp32.git

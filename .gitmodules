@@ -67,9 +67,6 @@
 [submodule "esp-iot-solution"]
 	path = esp-iot-solution
 	url = https://github.com/espressif/esp-iot-solution.git
-[submodule "esp-lwip"]
-	path = esp-lwip
-	url = https://github.com/espressif/esp-lwip.git
 [submodule "esp-matter"]
 	path = esp-matter
 	url = https://github.com/espressif/esp-matter.git
@@ -82,9 +79,6 @@
 [submodule "esp-modbus"]
 	path = esp-modbus
 	url = https://github.com/espressif/esp-modbus.git
-[submodule "esp-nimble"]
-	path = esp-nimble
-	url = https://github.com/espressif/esp-nimble.git
 [submodule "esp-nn"]
 	path = esp-nn
 	url = https://github.com/espressif/esp-nn.git

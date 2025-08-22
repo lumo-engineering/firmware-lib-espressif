@@ -11,5 +11,5 @@ git submodule update --init --recursive
 or
 
 ```
-git submodule foreach 'git remote update; (git checkout origin/main || git checkout origin/master); git reset; git checkout .; git clean -xdf'
+git submodule foreach 'git remote update; (git checkout origin/main || git checkout origin/master); git reset; git checkout .; git clean -xdff'
 ```

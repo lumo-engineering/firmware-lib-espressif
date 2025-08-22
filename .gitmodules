@@ -124,3 +124,6 @@
 [submodule "openocd-esp32"]
 	path = openocd-esp32
 	url = https://github.com/espressif/openocd-esp32.git
+[submodule "pytest-embedded"]
+	path = pytest-embedded
+	url = git@github.com:espressif/pytest-embedded.git

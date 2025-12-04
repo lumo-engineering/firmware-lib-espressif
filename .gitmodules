@@ -67,9 +67,6 @@
 [submodule "esp-iot-solution"]
 	path = esp-iot-solution
 	url = https://github.com/espressif/esp-iot-solution.git
-[submodule "esp-matter"]
-	path = esp-matter
-	url = https://github.com/espressif/esp-matter.git
 [submodule "esp-mdf"]
 	path = esp-mdf
 	url = https://github.com/espressif/esp-mdf.git
